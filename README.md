@@ -1,6 +1,3 @@
-# Projection-Calculator
-Roombr device projection screen calculator based on Throw Ratio and Aspect Ratio
-
 <!doctype html>
 <html lang="en">
 <head>
